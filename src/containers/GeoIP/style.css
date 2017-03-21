@@ -1,0 +1,14 @@
+.geoip {
+  margin: auto;
+  margin-top: 50px;
+  height: 200px;
+}
+
+.label {
+  float: left;
+}
+
+.input {
+  float: left;
+  width: 200px;
+}

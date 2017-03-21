@@ -13,7 +13,8 @@
         "import/imports-first": 0,
         "import/no-extraneous-dependencies": 0,
         "import/prefer-default-export": 0,
-        "no-eval": 0
+        "no-eval": 0,
+        "react/no-unused-prop-types": 1,
     },
     settings: {
       import/resolver: {
