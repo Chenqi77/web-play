@@ -1,2 +1,5 @@
-# library
-node_modules
+# Mr. library
+node_modules/
+
+# Mr. Developer
+.idea/
